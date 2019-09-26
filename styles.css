@@ -1,0 +1,63 @@
+/* Styles */
+
+body {
+	background-color: #03A9F4;
+	color: white;
+	font-family: sans-serif;
+}
+
+article {
+	max-width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 2em;
+	padding-bottom: 4em;
+}
+
+h1 {
+	font-size: 3em;
+	line-height: 1;
+	color: #000d56;
+	text-align: center;
+}
+
+h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	letter-spacing: -0.025em;
+	color: #000d56;
+	width: 80%;
+	padding-left: 10%;
+	padding-top: .75em;
+	padding-bottom: .75em;
+	text-align: justify;
+}
+
+h3 {
+	color: #000d56;
+	font-size: 1.5em;
+	padding: .25em 0em 0em 0em;
+}
+
+h4 {
+	color: #000d56;
+	font-size: 1.25em;
+	padding: .25em 0em 0em 0em;
+}
+
+hr {
+	margin-top: 2em;
+}
+
+li {
+	font-family: serif;
+	line-height: 1.5;
+	font-size: 1.05em;
+}
+
+p {
+	margin: 0 0 1em 0;
+	font-family: serif;
+	font-size: 1.05em;
+	text-indent: 2em;
+}
